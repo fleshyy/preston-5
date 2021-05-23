@@ -111,6 +111,9 @@ main{
  .article-content{
     border-top: #c001ff 2px solid;
  }
+ .article-content img{
+     max-width:100%;
+ }
  .contactinfo-img img{
     max-width:100%;
  }
