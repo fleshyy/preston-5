@@ -73,4 +73,28 @@ flex-direction: row-reverse;
 .contactcontent-img{
     width: 60%;
 }
+
+
+label{
+    display: inline-block;
+    text-align: left;
+    width: 250px;
+}
+input , textarea{
+width: 450px;
+}
+
+
+.radiogroups label, .radiogroups input{
+width:auto;
+}
+.radiogroups input{
+    margin:0 10px;
+}
+
+
+
+
+
+
 }
